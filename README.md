@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of pixiake/aichat.** Not for installation: use [Packagist](https://packagist.org/packages/pixiake/aichat) or the [upstream repository](https://github.com/pixiake/aichat).
 
-**0** versions archived · Latest: [`v0.0.2`](https://github.com/flarchive/pixiake-aichat/tree/archive/v0.0.2) · License: `Apache-2.0` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v0.0.2`](https://github.com/flarchive/pixiake-aichat/tree/archive/v0.0.2) · License: `Apache-2.0` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2024-10-17 | `^1.2.0` | [Browse](https://github.com/flarchive/pixiake-aichat/tree/archive/v0.0.1) |
+| `v0.0.2` | 2024-11-25 | `^1.2.0` | [Browse](https://github.com/flarchive/pixiake-aichat/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/pixiake-aichat.json](https://github.com/flarchive/archive-index/blob/main/packages/pixiake-aichat.json)
 
